@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Bishal Saha
     tagline: Behavioral Data Scientist | Organizational Psychology Researcher
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: bishal.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     website: Melbourne,Florida,USA
@@ -19,29 +19,10 @@ sidebar:
     linkedin: Bishal Saha
    # xing: alandoe
     github: Bishal-psy
-   # telegram: # add your nickname without '@' sign
-   # gitlab:
-   # bitbucket:
-    #twitter: '@SazzadSaju6'
-    #stack-overflow: 10682584/sazzad # Number/Username
-   # codewars: 
-    #goodreads: 92158663-sazzad-saju
-    #website: sazzad-saju.github.io/online-cv/ 
-
-    location:
-      - idiom: Melbourne, Florida, USA
-      #   level: Native
-
-      # - idiom: English
-      #   level: Professional
-
-#       - idiom: Spanish
-#         level: Professional
 
     interests:
-      - item: Decision Science
-        link:
-
+      title: Interests
+      info:
       - item: Innovative work behavior
         link:
 
@@ -57,18 +38,8 @@ career-profile:
     summary: |
       With nearly 5 years of extensive research experience, I specialize in data collection, analysis, and manuscript writing,particularly in management decision-making and innovation research. I have a strong background in both qualitative & quantitative research methods, statistical analysis, and machine learning modeling, with proficiency in R and Python. My work has focused on leveraging data to enhance organizational development, workforce engagement, and strategic decisionmaking in global shared services environments. 
 education:
-#     - degree: MSc in Computer Science
-#       university: University of London
-#       time: 2011 - 2012
-#       details: |
-#         Describe your study here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#         sociis natoque penatibus et magnis dis parturient montes, nascetur
-#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#         pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-      
+    title: Education
+    info:
     - degree: MS in Work, Organizational & Personnel Psychology (WOP-P)
       university: University of Valencia (Spain), University of Coimbra (Portugal)
       time: 09/2023 - 06/2025
@@ -92,6 +63,8 @@ education:
 #       details: 
 
 experiences:
+    title: Experiences
+    info:
     - role: Research Intern
       time:  03/2025 - Present
       company:  Institute of Culture Collaboration & Management, Florida Institute of Technology
