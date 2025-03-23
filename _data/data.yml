@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Bishal Saha
     tagline: Behavioral Data Scientist | Organizational Psychology Researcher
-    avatar: bishal.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     website: Melbourne,Florida,USA
@@ -147,7 +147,7 @@ publications:
     title: Publications
     intro: >
     papers:
-      - title: Paradigm Shift in Reducing Greenhouse Gas Emission for Developing Countries: Focus on Behavioral Change
+      - title: Paradigm Shift in Reducing Greenhouse Gas Emission for Developing Countries- Focus on Behavioral Change
         link: "#"
         authors: Saha, B., Muhyedeen, M. A. R., Joy, J. H., Rahman, M. M., Rahman, M. S.
         conference: International Conference of Environmental Psychology, Dubai, August 2021
@@ -157,7 +157,7 @@ publications:
         authors:  Saha, B., Siraji, M.A., Chandni, M.R., Haque, S.
         conference: "Mindfulness, 2023, 14(12), 3033–3051"
 
-      - title: "Developing Countries' Greenhouse Gas Emissions Reduction: A New Approach with a Focus on Behavioral Changes"
+      - title: "Developing Countries' Greenhouse Gas Emissions Reduction- A New Approach with a Focus on Behavioral Changes"
         link: "#"
         authors: Saha, B., Nahar, L., Rahman, M.M, Kashifi, M.T., Rahman, S. M.
         conference: "Environment, Development and Sustainability (Under Review), 2024"
@@ -185,4 +185,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://Bishal-psy.github.io" target="_blank" rel="nofollow">Bishal Saha</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://bishal-psy.github.io/online-cv/" target="_blank" rel="nofollow">Bishal Saha</a>
